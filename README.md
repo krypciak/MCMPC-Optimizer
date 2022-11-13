@@ -9,7 +9,7 @@ Optimizes MCMPC for faster execution speeds
 ## Dependencies:
 - [FreeArgParser-Java](https://github.com/krypciak/FreeArgParser-Java)
 - [MC-Datapack-Parser](https://github.com/krypciak/MC-Datapack-Parser)
-- [Utils](https://github.com/krypciak/Utils)
+- [Java-Utils](https://github.com/krypciak/Java-Utils)
 
 
 # License
